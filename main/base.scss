@@ -122,6 +122,7 @@ TABLE OF CONTENTS
 11. Store, Activity, Library, Friends and Server Discovery
   11.a. Friends
   11.b. Nitro
+  11.c. Better Server Maker
 12. Out of app areas
   12.a. Login Screen
   12.b. Crash Screen
@@ -4680,6 +4681,59 @@ div[data-author-id="461440763042201620"] .username-1A8OIy, .desaturate-user-colo
   .theme-dark .sectionSeparator-2OWiNT {
 	  display: none;
   }
+
+  /*11.c. Better Server Maker*/
+  /* Actually better join server tab */
+.theme-light .root-1gCeng {
+  background-color: #181818;
+}
+.theme-light .footer-2gL1pp {
+  background-color: #181818;
+  border-color: rgba(0, 0, 0);
+  box-shadow: none;
+}
+.templatesList-2E6rTe {
+  height: 335px;
+}
+div[class*="colorHeaderSecondary-3Sp3Ft size16-1P40sf subtitle-Nw1LLR"],
+div[class*="colorHeaderSecondary-3Sp3Ft size12-3cLvbJ optionHeader-1-5lcp"],
+div[class*="colorHeaderSecondary-3Sp3Ft size16-1P40sf subtitle-1Q3BuX"],
+div[class*="colorHeaderSecondary-3Sp3Ft size14-e6ZScH skip-2o6MGG"],
+div[class*="colorHeaderSecondary-3Sp3Ft size16-1P40sf subtitle-1KdHaN"],
+div[class*="colorHeaderSecondary-3Sp3Ft size14-e6ZScH"],
+div[class*="colorMuted-HdFt4q size12-3cLvbJ guidelines-1NSoht"],
+h5[class*="colorStandard-2KCXvj size14-e6ZScH h5-18_1nd title-3sZWYQ formTitle-aeXUoN"], 
+h5[class*="colorStandard-2KCXvj size14-e6ZScH h5-18_1nd title-3sZWYQ defaultMarginh5-2mL-bP"] {
+  color: white;
+}
+.container-UC8Ug1 {
+  background-color: #282828;
+  margin-bottom: 8px;
+}
+.container-UC8Ug1:hover {
+  background-color: black;
+}
+.container-UC8Ug1:active {
+  background-color: #2F3136;
+}
+.base-1x0h_U,
+.colorStandard-2KCXvj {
+  color: white;
+}
+.footerButton-ayFTfX.button-38aScr.lookFilled-1Gx00P.colorGrey-2DXtkV.sizeMedium-1AC_Sl.grow-q77ONN {
+  background-color: var(--accent);
+  color:black;
+}
+.sampleLink-2NLvZg {
+  color:gray;
+}
+button[class*="backButton-iA7KIs button-38aScr lookBlank-3eh9lL colorBrand-3pXr91 sizeMin-1mJd1x grow-q77ONN"], 
+button[class*="button-38aScr lookLink-9FtZy- lowSaturationUnderline-3svVxy colorPrimary-3b3xI6 sizeMin-1mJd1x grow-q77ONN"], 
+button[class*="button-38aScr lookBlank-3eh9lL colorBrand-3pXr91 sizeMin-1mJd1x grow-q77ONN"], 
+.theme-light .lookLink-9FtZy-.colorPrimary-3b3xI6,
+.anchor-3Z-8Bb {
+  color: var(--accent);
+}
   /*============== END OF SECTION ============== */
   
   /*12. Out of App Areas*/
